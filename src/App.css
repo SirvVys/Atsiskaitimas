@@ -41,6 +41,12 @@
   color: #888;
 }
 
+.Upper {
+  background-color: rgba(192, 226, 248, 0.466);
+  height: 60px;
+  width: 580px;
+}
+
 .Top {
   font-size: 30px;
   background-color: rgba(137, 192, 243, 0.418);
